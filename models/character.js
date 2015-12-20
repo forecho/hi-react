@@ -2,9 +2,8 @@
 * @Author: forecho
 * @Date:   2015-12-20 13:53:33
 * @Last Modified by:   forecho
-* @Last Modified time: 2015-12-20 13:53:41
+* @Last Modified time: 2015-12-20 18:02:20
 */
-
 var mongoose = require('mongoose');
 
 var characterSchema = new mongoose.Schema({
