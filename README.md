@@ -1,5 +1,7 @@
 ## 环境依赖
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/forecho/hi-react.svg)](https://greenkeeper.io/)
+
 - node 0.12 以上
 - gulp
 - bower
